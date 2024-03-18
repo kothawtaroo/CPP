@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710778497 source:c:\users\user\desktop\cpp\exercise\execise.cpp
+	<iostream>
+	<string>
+
+1710778311 source:c:\users\user\desktop\cpp\exercise\exercise2.cpp
+	<iostream>
+	<string>
+
